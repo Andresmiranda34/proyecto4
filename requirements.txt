@@ -54,7 +54,7 @@ pyzmq==25.1.1
 referencing==0.8.9
 requests==2.31.0
 rich==13.6.0
-rpds-py==0.10.6
+#rpds-py==0.10.6
 scipy==1.11.3
 six==1.16.0
 smmap==5.0.1
